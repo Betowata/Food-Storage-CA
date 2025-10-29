@@ -158,7 +158,7 @@ public class Main {
 
         //  exit
         sc.close();
-        System.out.println(" Program terminated safely.");
+        System.out.println(" Program Finished .");
     }
 }
 
